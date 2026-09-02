@@ -18,17 +18,6 @@ Sahadaki tır ve binek şirket araçlarının giriş-çıkışlarında yaşanan 
 
 ---
 
-## 📁 Proje Dosya Yapısı
-
-
-smart_park/
-│
-├── app.py                # Streamlit ana uygulama ve arayüz kodu
-├── otopark_verisi.json   # Anlık slot durumlarının saklandığı JSON veritabanı
-├── otopark_loglari.csv   # Araç hareket ve işlem geçmişi log dosyası
-├── requirements.txt      # Gerekli Python paketleri listesi
-└── README.md             # Proje dokümantasyonu
-
 🚀 Linux Ortamında Kurulum ve Çalıştırma
 
 Aşağıdaki adımları Linux terminalinizde sırasıyla çalıştırarak projeyi kurabilir ve yayına alabilirsiniz:
