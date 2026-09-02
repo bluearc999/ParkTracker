@@ -1,4 +1,5 @@
-W## 📌 Proje Hakkında ve Gereksinimler
+
+![ornek](ornek.png)
 
 Sahadaki tır ve binek şirket araçlarının giriş-çıkışlarında yaşanan park yeri belirsizliğini gidermek için tasarlanan bu yazılım, **Python** ve **Streamlit** kütüphanesi kullanılarak geliştirilmiştir.
 
