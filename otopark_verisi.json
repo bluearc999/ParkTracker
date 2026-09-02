@@ -1,0 +1,251 @@
+{
+    "Tır": {
+        "TIR-01": {
+            "slot_id": "TIR-01",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-02": {
+            "slot_id": "TIR-02",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-03": {
+            "slot_id": "TIR-03",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-04": {
+            "slot_id": "TIR-04",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-05": {
+            "slot_id": "TIR-05",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-06": {
+            "slot_id": "TIR-06",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-07": {
+            "slot_id": "TIR-07",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-08": {
+            "slot_id": "TIR-08",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-09": {
+            "slot_id": "TIR-09",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-10": {
+            "slot_id": "TIR-10",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-11": {
+            "slot_id": "TIR-11",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-12": {
+            "slot_id": "TIR-12",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-13": {
+            "slot_id": "TIR-13",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-14": {
+            "slot_id": "TIR-14",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-15": {
+            "slot_id": "TIR-15",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-16": {
+            "slot_id": "TIR-16",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-17": {
+            "slot_id": "TIR-17",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-18": {
+            "slot_id": "TIR-18",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-19": {
+            "slot_id": "TIR-19",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "TIR-20": {
+            "slot_id": "TIR-20",
+            "category": "Tır",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        }
+    },
+    "Otomobil": {
+        "OTO-01": {
+            "slot_id": "OTO-01",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-02": {
+            "slot_id": "OTO-02",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-03": {
+            "slot_id": "OTO-03",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-04": {
+            "slot_id": "OTO-04",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-05": {
+            "slot_id": "OTO-05",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-06": {
+            "slot_id": "OTO-06",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-07": {
+            "slot_id": "OTO-07",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-08": {
+            "slot_id": "OTO-08",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-09": {
+            "slot_id": "OTO-09",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-10": {
+            "slot_id": "OTO-10",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-11": {
+            "slot_id": "OTO-11",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-12": {
+            "slot_id": "OTO-12",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-13": {
+            "slot_id": "OTO-13",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-14": {
+            "slot_id": "OTO-14",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        },
+        "OTO-15": {
+            "slot_id": "OTO-15",
+            "category": "Otomobil",
+            "status": "Boş",
+            "plate": "",
+            "last_updated": "2026-09-02 11:03:51"
+        }
+    }
+}
