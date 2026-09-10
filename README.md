@@ -320,83 +320,9 @@ Sistemde yapılan işlemlerin geçmişini tutar.
 Bu dosya Excel, LibreOffice Calc veya Python/Pandas ile açılabilir.
 
 Örneğin:
-
+```
 timestamp,action,slot_id,category,plate,old_status,new_status
 2026-09-10 11:30:15,GÜNCELLEME,TIR-01,Tır,33ABC123,Boş,Dolu
-
-## 🧹 Sistemi Sıfırlama
-
-Sol menüde bulunan:
-
-🧹 Tüm Sistem Verilerini Sıfırla
-
-
-butonu kullanılarak mevcut park durumu sıfırlanabilir.
-
-Bu işlem sonrasında park slotları:
-
-Boş
-
-
-durumuna getirilir.
-
-Dikkat: Bu işlemi gerçekleştirmeden önce otopark_verisi.json dosyasının yedeğini almanız önerilir.
-
-## 🔐 Linux Dosya İzinleri
-
-Uygulamanın veri dosyalarını oluşturabilmesi için uygulamayı çalıştıran Linux kullanıcısının proje klasöründe yazma izni olması gerekir.
-
-Kontrol:
-```
-ls -la
-```
-
-Gerekirse:
-```
-chmod 755 .
-```
-
-Veri dosyaları mevcutsa:
-```
-chmod 664 otopark_verisi.json
-chmod 664 otopark_loglari.csv
-```
-## 🌐 Güvenlik Duvarı
-
-Uygulamaya ağ üzerinden erişilecekse Linux sunucusunda 8501 portunun açık olması gerekebilir.
-
-UFW kullanılıyorsa:
-```
-sudo ufw allow 8501/tcp
-```
-
-Durumu kontrol etmek için:
-```
-sudo ufw status
-```
-
-İnternete doğrudan açmak yerine uygulamanın kurum içi ağ üzerinden veya bir reverse proxy arkasından yayınlanması daha güvenlidir.
-
-## 🔄 Arka Planda Çalıştırma
-
-Terminal kapatıldığında Streamlit'in çalışmaya devam etmesi gerekiyorsa nohup kullanılabilir:
-```
-nohup streamlit run app.py --server.address 0.0.0.0 --server.port 8501 > streamlit.log 2>&1 &
-```
-
-Çalışan işlemi kontrol etmek için:
-```
-ps aux | grep streamlit
-```
-
-Logları takip etmek için:
-```
-tail -f streamlit.log
-```
-
-İşlemi durdurmak için:
-```
-pkill -f "streamlit run app.py"
 ```
 ## 🛠️ Önerilen Üretim Ortamı
 
