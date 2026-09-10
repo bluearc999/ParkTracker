@@ -78,28 +78,6 @@ Başarılı olduğunda terminal satırının başında genellikle şu şekilde g
 ```
 (venv) user@server:~/lojistik-otopark$
 ```
-### 3. Bağımlılıkları yükleyin
-
-requirements.txt dosyası oluşturun:
-```
-streamlit
-pandas
-```
-
-Daha sonra:
-```
-pip install -r requirements.txt
-```
-
-İsterseniz doğrudan da yükleyebilirsiniz:
-```
-pip install streamlit pandas
-```
-
-Kurulumları kontrol etmek için:
-```
-pip list
-```
 ## ▶️ Uygulamayı Çalıştırma
 
 Proje klasöründeyken:
